@@ -1,3 +1,6 @@
+![Alt text](./robot2.jpg)
+
+
 # Interview-Edge
 An AI driven job candidate chooser
 <div class="alert alert-block alert-success">
